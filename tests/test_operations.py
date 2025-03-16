@@ -36,4 +36,4 @@ def test_divide_by_zero():
     """ Test division by zero handling using the Calculation class. """
     with pytest.raises(ValueError, match="Cannot divide by zero"):
         calculation = Calculation(Decimal('15'), Decimal('0'), divide)
-        calculation.perform()\
+        calculation.perform()
