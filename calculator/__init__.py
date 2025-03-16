@@ -36,4 +36,4 @@ class Calculator:
     @staticmethod
     def divide(a: Decimal, b: Decimal) -> Decimal:
         """ Returns the quotient of two Decimal numbers. """
-        return Calculator._operate(a, b, divide)\
+        return Calculator._operate(a, b, divide)
