@@ -1,1 +1,8 @@
 2025-03-16 13:58:17,871 - INFO - Executed add command with result: 3
+2025-03-16 18:54:19,396 - INFO - Executed add command with result: 4
+2025-03-16 18:55:02,688 - ERROR - Invalid input: Cannot divide by zero
+2025-03-16 18:55:49,428 - INFO - Executed multiply command with result: 15
+2025-03-16 19:03:21,430 - INFO - Executed add command with result: 4
+2025-03-16 19:03:33,406 - ERROR - Invalid input: Cannot divide by zero
+2025-03-16 19:03:49,533 - INFO - Executed multiply command with result: 8
+2025-03-16 19:04:05,369 - ERROR - Invalid input: Unknown operation.
